@@ -1,0 +1,12 @@
+There are 15 schools in the file
+39170 total students
+total budget of all schools is 24649428
+average math score is 78.98537145774827
+average reading score is 81.87784018381414
+passing math percent is 74.9808526933878
+passing reading percent is 85.80546336482001
+the overall pass rate is 65.17232575950983
+7 of the schools are Charter and 8 are District
+
+Charter schools across the board have higher math and reading scores than District schools from the Data we analyzed.
+Schools that have smaller student sizes have higher math and reading scores and percentages across the board than medium and large student sized schools.
